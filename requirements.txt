@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+chromadb
+sentence-transformers
+transformers
+huggingface-hub
+pymupdf
+trafilatura
+requests
+pydantic
+peft
+trl
+tiktoken
+accelerate
+bitsandbytes
